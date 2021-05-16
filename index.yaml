@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  demo-help-git-repo:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-05-16T05:44:34.124089417+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 65d4dc769ec90b1637bcf95914cfd0a5049d3cd3f605f52005265b305c3bf954
+    name: demo-help-git-repo
+    type: application
+    urls:
+    - demo-help-git-repo-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-05-16T05:44:34.11824103+05:30"
