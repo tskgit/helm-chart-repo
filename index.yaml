@@ -3,7 +3,7 @@ entries:
   demo-help-git-repo:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-05-16T05:44:34.124089417+05:30"
+    created: "2021-05-16T05:57:07.791811414+05:30"
     description: A Helm chart for Kubernetes
     digest: 65d4dc769ec90b1637bcf95914cfd0a5049d3cd3f605f52005265b305c3bf954
     name: demo-help-git-repo
@@ -11,4 +11,15 @@ entries:
     urls:
     - demo-help-git-repo-0.1.0.tgz
     version: 0.1.0
-generated: "2021-05-16T05:44:34.11824103+05:30"
+  test-gitrepo-chart-file:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-05-16T05:57:07.805219414+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 76bdbe669796cadc3689273ec8fd6ab41c7a86919797e24b911e03a16b895083
+    name: test-gitrepo-chart-file
+    type: application
+    urls:
+    - test-gitrepo-chart-file-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-05-16T05:57:07.788043507+05:30"
